@@ -116,4 +116,22 @@ The project integrates several independent embedded subsystems:
 Power for the servos, LEDs, and ultrasonic sensor is supplied from an external 5V power supply, while sensor data is processed by the Arduino Uno. A shared ground rail and decoupling capacitor were used to improve system stability.
 
 ---
+## Photos
+
+TODO
+
+## Demo Video
+
+TODO
+
+## Wiring Diagram
+
+TODO
+
+## Repository Contents
+
+- Arduino source code
+- Fritzing schematic
+- Images
+- README
 
