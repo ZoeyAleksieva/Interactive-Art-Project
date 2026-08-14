@@ -120,18 +120,6 @@ Power for the servos, LEDs, and ultrasonic sensor is supplied from an external 5
 
 TODO
 
-## Demo Video
-
-TODO
-
 ## Wiring Diagram
 
 TODO
-
-## Repository Contents
-
-- Arduino source code
-- Fritzing schematic
-- Images
-- README
-
