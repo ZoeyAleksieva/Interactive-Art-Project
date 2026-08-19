@@ -116,10 +116,6 @@ The project integrates several independent embedded subsystems:
 Power for the servos, LEDs, and ultrasonic sensor is supplied from an external 5V power supply, while sensor data is processed by the Arduino Uno. A shared ground rail and decoupling capacitor were used to improve system stability.
 
 ---
-## Photos
+## Media
 
-TODO
-
-## Wiring Diagram
-
-TODO
+For photos and demo videos, check out my [blog post](https://art150.nma-course.online/2026/04/eavesdrop-bunny/) on my art professor's website!
